@@ -1,0 +1,8 @@
+F:\Projects\CcbitsSerialAssistants\CcbitsSerialAssistants\bin\Debug\CcbitsSerialAssistants.exe
+F:\Projects\CcbitsSerialAssistants\CcbitsSerialAssistants\bin\Debug\CcbitsSerialAssistants.pdb
+F:\Projects\CcbitsSerialAssistants\CcbitsSerialAssistants\obj\Debug\CcbitsSerialAssistants.csprojResolveAssemblyReference.cache
+F:\Projects\CcbitsSerialAssistants\CcbitsSerialAssistants\obj\Debug\CcbitsSerialAssistants.Form1.resources
+F:\Projects\CcbitsSerialAssistants\CcbitsSerialAssistants\obj\Debug\CcbitsSerialAssistants.Properties.Resources.resources
+F:\Projects\CcbitsSerialAssistants\CcbitsSerialAssistants\obj\Debug\CcbitsSerialAssistants.csproj.GenerateResource.Cache
+F:\Projects\CcbitsSerialAssistants\CcbitsSerialAssistants\obj\Debug\CcbitsSerialAssistants.exe
+F:\Projects\CcbitsSerialAssistants\CcbitsSerialAssistants\obj\Debug\CcbitsSerialAssistants.pdb
